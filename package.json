@@ -1,0 +1,24 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyayic/design_patterns.git"
+  },
+  "author": "Fanny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyayic/design_patterns/issues"
+  },
+  "homepage": "https://github.com/Nyayic/design_patterns#readme",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2",
+    "npm": "^6.13.7"
+  }
+}
